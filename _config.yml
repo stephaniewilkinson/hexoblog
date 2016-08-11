@@ -72,3 +72,13 @@ deploy:
   repo: 'git@github.com:stephaniewilkinson/hexoblog.git'
 - type: heroku
   repo: 'https://git.heroku.com/stephblog.git'
+
+
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
