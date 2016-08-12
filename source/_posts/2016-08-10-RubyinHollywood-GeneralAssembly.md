@@ -1,7 +1,12 @@
 ---
 title: Ruby in Hollywood + General Assembly
 date: 2016-07-14 12:25:33
-tags: rubyinhollywood, ruby, meetup, reactjs, javascript
+tags:
+- rubyinhollywood
+- ruby
+- meetup
+- ReactJS
+- javascript
 ---
 # Wonderful world of ReactJS
 
