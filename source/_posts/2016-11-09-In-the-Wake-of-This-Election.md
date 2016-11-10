@@ -5,7 +5,7 @@ tags:
 ---
 ![](/2016/11/peony.png "peony")
 
-
+Today the world feels like a darker and dimmer place, and it seems like the actions we take for progress are fruitless. To bring light back, here are the things I did that I know will help, however small the steps. The way I live my life is a more powerful force than my ballot. When it feels like we are ineffectual and ignored, we can [start where we are, use what we have, do what we can.](http://inspiremykids.com/2012/arthur-ashe-tennis-legend-activist-man-of-true-greatness/)
 
 ## 1. Support Civil Liberties Online and Off
 
@@ -21,6 +21,9 @@ My first contributions today were to the [ACLU](https://www.aclu.org/) and the [
 
 
 [EFF](https://www.eff.org/) is "leading the fight against NSA's illegal mass surveillance program". Illegal government surveillance has expanded under Obama, and Trump will inherit that massive spying apparatus. The work of the EFF is more important than ever.
+
+"The coming four years will feature fights that are far more urgent than the future of the internet: fights over women's right to choose; over racist police-shootings and mass incarceration; over mass deportations and concentration camps; over gender bias and homophobia; over access to human necessities from food to shelter to health care."
+[-Cory Doctorow](http://boingboing.net/2016/11/09/a-madman-has-been-given-the-ke.html)
 
 <!-- ![](/2016/11/patriotact.jpg "EFF on Patriot Act") -->
 
