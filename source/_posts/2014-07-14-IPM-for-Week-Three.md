@@ -5,8 +5,7 @@ tags:
 ---
 
 Date: 14 July 2014
-Author: Stephanie Betancourt
-
+Author: Stephanie
 # IPM for Week Three
 
 On Monday, Pat, Stephanie, Wale, Josh, Rob, and Jalil met with Pivots Mike and Ryan for our Week Three IPM. We planned out what stories would get done this week, along with a short recap of highs and lows from last week.
@@ -17,7 +16,7 @@ Pat's idea was to create a vanilla .vimrc that we can add to our virtual box. Th
 
 ![Wale](/attachments/7-14_Wale.jpg)
 
-Another idea was to create a mobbing manual. In our early discussion, we laid out some roles, rules and values for our mobbing experience. Later in the night, with the Pivots, we tweaked it with some new ideas. Read our [Manual of Mob](https://gist.github.com/stephaniebetancourt/3a317103e9d3e10d98f5).
+Another idea was to create a mobbing manual. In our early discussion, we laid out some roles, rules and values for our mobbing experience. Later in the night, with the Pivots, we tweaked it with some new ideas. Read our [Manual of Mob](https://gist.github.com/).
 
 Then we moved on to the next story in our PivotalTracker, which was creating an acceptance environment. We had been battling a heroku postgres error on Thursday night that hadn't got resolved. The error was preventing us from pushing to Heroku. We installed psql on our Ubuntu vagrantbox, which cleared up the error and allowed us to push. We clicked "finish" on that story.
 

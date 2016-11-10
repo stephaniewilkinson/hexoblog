@@ -5,7 +5,7 @@ tags:
 ---
 
 Date: 1 July 2014
-Author: Stephanie Betancourt
+Author: Stephanie 
 
 # Day 2 - One Method, One Library
 
