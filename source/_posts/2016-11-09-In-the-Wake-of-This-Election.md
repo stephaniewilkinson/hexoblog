@@ -3,7 +3,7 @@ title: In the Wake of This Election
 date: 2016-11-09 13:26:49
 tags:
 ---
-![](/2016/11/peony.jpg "peony")
+![](/2016/11/peony.png "peony")
 
 
 
@@ -22,7 +22,7 @@ My first contributions today were to the [ACLU](https://www.aclu.org/) and the [
 
 [EFF](https://www.eff.org/) is "leading the fight against NSA's illegal mass surveillance program". Illegal government surveillance has expanded under Obama, and Trump will inherit that massive spying apparatus. The work of the EFF is more important than ever.
 
-<!-- ![](/2016/11/eff.png "EFF on Patriot Act") -->
+<!-- ![](/2016/11/patriotact.jpg "EFF on Patriot Act") -->
 
 
 ## 2. Do What I Can
