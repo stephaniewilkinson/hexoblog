@@ -1,7 +1,7 @@
 ---
 title: In the Wake of This Election
 date: 2016-11-09 13:26:49
-tags:
+tags: politics
 ---
 ![](/2016/11/peony.png "peony")
 
